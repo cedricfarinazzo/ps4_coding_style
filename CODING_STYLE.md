@@ -14,6 +14,8 @@
 
 - pas de memory leaks/ segfault
 
+- Macros en majuscules
+
 - separation des composants dans des fichiers (.c/.h) differents
 
 - Developpement sur la branche develop 
