@@ -117,6 +117,14 @@ struct MODULE_structname {
 } MODULE_structname
 ```
 
+## Pointeurs
+
+```c
+char *var;
+
+void *func(void *arg);
+```
+
 ## Tests
 
 - Les tests unitaires fonctionnent via [criterion](https://criterion.readthedocs.io) (Lit la doc putain !)
