@@ -6,7 +6,11 @@
 
 - pas de warning à la compilation
 
-- indentation: 4 espaces
+- indentation: 8 espaces
+
+- espaces autour des operandes (+, -, =, ...)
+
+- 1 espace apres if, else, for, while
 
 - nom de variables explicites
 
