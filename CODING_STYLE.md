@@ -16,6 +16,10 @@
 
 - Macros en majuscules
 
+- Chaques accolades doivent avoir sa propre ligne
+
+- indentation correcte (vim: gg=G in normal mode)
+
 - separation des composants dans des fichiers (.c/.h) differents
 
 - Developpement sur la branche develop 
