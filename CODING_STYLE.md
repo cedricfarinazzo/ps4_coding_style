@@ -2,7 +2,19 @@
 
 ## General
 
+- UTF8
+
+- pas de warning à la compilation
+
 - indentation: 4 espaces
+
+- nom de variables explicites
+
+- une instruction par ligne
+
+- pas de memory leaks/ segfault
+
+- separation des composants dans des fichiers (.c/.h) differents
 
 - Developpement sur la branche develop 
 ```bash
@@ -93,9 +105,9 @@ void functionName(int arg1, int arg2)
 - de la forme
 ```c
 struct MODULE_structname {
-    type valuename;
+    type var1;
     ...
-    type valuename;
+    type varn;
 } MODULE_structname
 ```
 
